@@ -1,0 +1,11 @@
+data_intermediate/*.rda
+output/
+exploratory_output/
+.Rproj.user/
+.Rhistory/
+[Tt]humbs.db
+*[Tt]humbs.db
+shiny/new/*.rda
+data_raw/temp/
+.Rproj.user/
+!NZAEdb/*.rda
