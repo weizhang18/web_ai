@@ -17,8 +17,8 @@ open_remote_driver <- function(){
       remDr <<- remote_driver$client
       
       ## set windows size and hide
-      remDr$setWindowSize(50,50)
-      remDr$setWindowPosition(0,1450)
+      #remDr$setWindowSize(50,50)
+      #remDr$setWindowPosition(0,1450)
       
 }
 
